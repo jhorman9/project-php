@@ -2,7 +2,7 @@
 
 ¡Bienvenido a mi proyecto de aprendizaje de PHP y mi implementación de un CRUD interactivo y visualmente atractivo!
 
-## Descripción
+### Descripción
 Este proyecto es parte de mi viaje de aprendizaje de PHP, donde he creado un CRUD (Create, Read, Update, Delete) básico pero elegante utilizando PHP y MySQL. ¡Me encantaría compartir mi experiencia contigo!
 
 ## Características
